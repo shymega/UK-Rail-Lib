@@ -1,0 +1,67 @@
+
+package com.thalesgroup.rtti._2017_10_01.ldbsv.types;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlType;
+import com.thalesgroup.rtti._2014_02_20.ldbsv.types.BaseStationBoard;
+
+
+/**
+ * A structure containing details of a next/fastest departures board for a specific location.
+ * 
+ * <p>Java class for DeparturesBoard complex type.
+ * 
+ * <p>The following schema fragment specifies the expected content contained within this class.
+ * 
+ * <pre>
+ * &lt;complexType name="DeparturesBoard"&gt;
+ *   &lt;complexContent&gt;
+ *     &lt;extension base="{http://thalesgroup.com/RTTI/2014-02-20/ldbsv/types}BaseStationBoard"&gt;
+ *       &lt;sequence&gt;
+ *         &lt;element name="departures" type="{http://thalesgroup.com/RTTI/2017-10-01/ldbsv/types}ArrayOfDepartureItems"/&gt;
+ *       &lt;/sequence&gt;
+ *     &lt;/extension&gt;
+ *   &lt;/complexContent&gt;
+ * &lt;/complexType&gt;
+ * </pre>
+ * 
+ * 
+ */
+@XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(name = "DeparturesBoard", propOrder = {
+    "departures"
+})
+public class DeparturesBoard
+    extends BaseStationBoard
+{
+
+    @XmlElement(required = true)
+    protected ArrayOfDepartureItems departures;
+
+    /**
+     * Gets the value of the departures property.
+     * 
+     * @return
+     *     possible object is
+     *     {@link ArrayOfDepartureItems }
+     *     
+     */
+    public ArrayOfDepartureItems getDepartures() {
+        return departures;
+    }
+
+    /**
+     * Sets the value of the departures property.
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link ArrayOfDepartureItems }
+     *     
+     */
+    public void setDepartures(ArrayOfDepartureItems value) {
+        this.departures = value;
+    }
+
+}
