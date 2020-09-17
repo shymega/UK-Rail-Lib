@@ -3,21 +3,41 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c09b132a-cb2a-4f91-b170-3553a0a72127" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UKRailLib.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thalesgroup/rtti/_2015_05_14/ldbsv_ref/LDBSVRefServiceSoap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thalesgroup/rtti/_2015_05_14/ldbsv_ref/LDBSVRefServiceSoap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thalesgroup/rtti/_2017_10_01/ldbsv/LDBSVServiceSoap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thalesgroup/rtti/_2017_10_01/ldbsv/LDBSVServiceSoap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thalesgroup/rtti/_2017_10_01/ldbsv/Ldbsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thalesgroup/rtti/_2017_10_01/ldbsv/Ldbsv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/shymega/ukraillib/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +50,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1gbVgLbLQaAVgTtZDOghN7izWM7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,10 +72,31 @@
       <option name="presentableId" value="Default" />
       <updated>1598383390122</updated>
       <workItem from="1598383391887" duration="182000" />
+      <workItem from="1598390854979" duration="457000" />
+      <workItem from="1598391388184" duration="116000" />
+      <workItem from="1598391559695" duration="296000" />
+      <workItem from="1600104221743" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3162" y="377" key="chooseDestDirectoryDialog" timestamp="1598391056081">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="3162" y="377" key="chooseDestDirectoryDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1598391056081" />
   </component>
 </project>
