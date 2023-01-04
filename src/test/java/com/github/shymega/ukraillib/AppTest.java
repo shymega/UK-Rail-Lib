@@ -1,20 +1,8 @@
-package org.shymega.rail;
-
-import static org.junit.Assert.assertTrue;
-
-import org.junit.Test;
+package com.github.shymega.rail.libs.ukraillib.tests;
 
 /**
  * Unit test for simple App.
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
-    }
 }
